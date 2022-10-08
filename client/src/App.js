@@ -1,13 +1,11 @@
-import './App.css';
+import NavBar from './order/NavBar';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        
-      </header>
+    <div >
+      <NavBar></NavBar>
     </div>
-  );
+  )
 }
 
 export default App;
